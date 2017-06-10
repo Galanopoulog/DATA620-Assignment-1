@@ -1,0 +1,51 @@
+Name,Team,Replied,RepliedTeam,Discussion
+Aadi,One,NA,NA,NA
+Alain,Professor,Param,One,Acquainted
+Alain,Professor,Mauricio,One,Marketing Analytics
+Alain,Professor,Nicholas,Four,Marketing Analytics
+Alain,Professor,Raphael,Three,Marketing Analytics
+Andrew,Four,NA,NA,NA
+Arindam,Five,NA,NA,NA
+Armenoush,Four,NA,NA,NA
+Blandon,Three,NA,NA,NA
+Christophe,Two,Srinivasa,One,Marketing Analytics
+Christophe,Two,Raphael,Three,Marketing Analytics
+Georgia,Five,Joel,Two,Acquainted
+Georgia,Five,Ilya,Two,Marketing Analytics
+Ilya,Two,Alain,Professor,Marketing Analytics
+Ilya,Two,Georgia,Five,Marketing Analytics
+Ilya,Two,Christophe,Two,Marketing Analytics
+Joel,Two,Kelly,Three,Acquainted
+Joel,Two,Ilya,Two,Marketing Analytics
+Joel,Two,Alain,Professor,Marketing Analytics
+Joel,Two,Nathan,Two,Marketing Analytics
+Joel,Two,Kelly,Three,Marketing Analytics
+John,Four,Nicholas,Four,Marketing Analytics
+John,Four,Srinivasa,One,Marketing Analytics
+Kelly,Three,Michael,Three,Acquainted
+Kelly,Three,Joel,Two,Acquainted
+Kelly,Three,Alain,Professor,Marketing Analytics
+Ken,Four,NA,NA,NA
+Mauricio,One,Nathan,Two,Acquainted
+Mauricio,One,Raphael,Three,Marketing Analytics
+Michael,Three,Raphael,Three,Acquainted
+Michael,Three,Kelly,Three,Acquainted
+Musa,Undetermined,John,Four,Marketing Analytics
+Musa,Undetermined,Sekhar,One,Marketing Analytics
+Musa,Undetermined,Xiaomeng,Three,Marketing Analytics
+Nathan,Two,Raphael,Three,Acquainted
+Nicholas,Four,Ilya,Two,Acquainted
+Nicholas,Four,Alain,Professor,Acquainted
+Nicholas,Four,Musa,Undetermined,Acquainted
+Nicholas,Four,Raphael,Three,Marketing Analytics
+Param,One,Alain,Professor,Acquainted
+Pavan,Two,NA,NA,NA
+Raphael,Three,Michael,Three,Acquainted
+Raphael,Three,Nathan,Two,Acquainted
+Raphael,Three,Alain,Professor,Marketing Analytics
+Sanjive,Two,NA,NA,NA
+Sekhar,One,NA,NA,NA
+Srinivasa,One,NA,NA,NA
+Xiaomeng,Three,Michael,Three,Acquainted
+Xiaomeng,Three,Alain,Professor,Marketing Analytics
+Xiaomeng,Three,Joel,Two,Marketing Analytics
